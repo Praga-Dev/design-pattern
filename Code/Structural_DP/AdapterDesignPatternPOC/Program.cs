@@ -1,0 +1,3 @@
+﻿using AdapterDesignPatternPOC;
+
+Client.TestClassAdapter();
